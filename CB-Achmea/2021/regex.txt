@@ -1,0 +1,15 @@
+Holdings komen uit halfjaarverslag met een copy paste actie, alleen daar staan ze met ISIN.
+
+Voor replace rommel na percentage van de holding: \%.*
+Replace dan met leeg
+
+Laatste spatie met ; vervangen: (?!.* )
+Replace dan met ;
+
+Daarna ; voor de naam.
+
+Daarna in excel tekst naar kolommen op ; teken.
+
+Daarna tegen ongeveer juiste moment IWDA uitvergelijken.
+
+Filter op NB zetten, maar ook op ISIN '-', anders gaan de future en cash posities ook mee.

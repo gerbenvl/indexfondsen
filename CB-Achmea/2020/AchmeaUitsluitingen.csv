@@ -1,0 +1,627 @@
+Naam;Weging;Industrie;Land
+WALMART INC;0,44;Basis-consumentengoederen;Verenigde Staten
+PHILIP MORRIS INTERNATIONAL INC;0,27;Basis-consumentengoederen;Verenigde Staten
+HONEYWELL INTERNATIONAL INC;0,26;Industrie;Verenigde Staten
+LOCKHEED MARTIN CORP;0,21;Industrie;Verenigde Staten
+RAYTHEON TECHNOLOGIES CORP;0,2;Industrie;Verenigde Staten
+FIDELITY NATIONAL INFORMATION SERV;0,2;IT;Verenigde Staten
+TORONTO DOMINION;0,2;Financiële waarden;Canada
+BOEING;0,2;Industrie;Verenigde Staten
+HSBC HOLDINGS PLC;0,19;Financiële waarden;Verenigd Koninkrijk
+BRITISH AMERICAN TOBACCO PLC;0,17;Basis-consumentengoederen;Verenigd Koninkrijk
+ALTRIA GROUP INC;0,17;Basis-consumentengoederen;Verenigde Staten
+DIAGEO PLC;0,17;Basis-consumentengoederen;Verenigd Koninkrijk
+CANADIAN NATIONAL RAILWAY;0,17;Industrie;Canada
+BECTON DICKINSON;0,15;Gezondheidszorg;Verenigde Staten
+DOMINION ENERGY INC;0,15;Nutsbedrijven;Verenigde Staten
+AIR PRODUCTS AND CHEMICALS INC;0,14;Materialen;Verenigde Staten
+T MOBILE US INC;0,14;Communicatie;Verenigde Staten
+ENBRIDGE INC;0,14;Energie;Canada
+BOSTON SCIENTIFIC CORP;0,12;Gezondheidszorg;Verenigde Staten
+CHUBB LTD;0,12;Financiële waarden;Verenigde Staten
+HONG KONG EXCHANGES AND CLEARING L;0,12;Financiële waarden;Hong Kong
+NORTHROP GRUMMAN CORP;0,12;Industrie;Verenigde Staten
+FEDEX CORP;0,12;Industrie;Verenigde Staten
+AIRBUS GROUP;0,11;Industrie;Frankrijk
+ABB LTD;0,11;Industrie;Zwitserland
+GLOBAL PAYMENTS INC;0,11;IT;Verenigde Staten
+DAIMLER AG;0,1;Luxe-consumentengoederen;Duitsland
+PROSUS NV;0,1;Luxe-consumentengoederen;Nederland
+WESTPAC BANKING CORPORATION CORP;0,1;Financiële waarden;Australië
+ANHEUSER BUSCH INBEV NV;0,1;Basis-consumentengoederen;België
+DUPONT DE NEMOURS INC;0,1;Materialen;Verenigde Staten
+ROPER TECHNOLOGIES INC;0,1;Industrie;Verenigde Staten
+BROOKFIELD ASSET MANAGEMENT INC CL;0,09;Financiële waarden;Canada
+DANONE SA;0,09;Basis-consumentengoederen;Frankrijk
+L3HARRIS TECHNOLOGIES INC;0,09;Industrie;Verenigde Staten
+PRUDENTIAL PLC;0,09;Financiële waarden;Verenigd Koninkrijk
+GENERAL DYNAMICS CORP;0,08;Industrie;Verenigde Staten
+DIGITAL REALTY TRUST REIT INC;0,08;Vastgoed;Verenigde Staten
+SAFRAN SA;0,08;Industrie;Frankrijk
+FANUC CORP;0,08;Industrie;Japan
+VONOVIA SE;0,08;Vastgoed;Duitsland
+PERNOD RICARD SA;0,08;Basis-consumentengoederen;Frankrijk
+BANCO SANTANDER SA;0,08;Financiële waarden;Spanje
+NIDEC CORP;0,08;Industrie;Japan
+EXELON CORP;0,08;Nutsbedrijven;Verenigde Staten
+INFINEON TECHNOLOGIES AG;0,07;IT;Duitsland
+CANADIAN IMPERIAL BANK OF COMMERCE;0,07;Financiële waarden;Canada
+DSV PANALPINA;0,07;Industrie;Denemarken
+MIZUHO FINANCIAL GROUP INC;0,07;Financiële waarden;Japan
+ING GROEP NV;0,07;Financiële waarden;Nederland
+COSTAR GROUP INC;0,07;Industrie;Verenigde Staten
+AMPHENOL CORP CLASS A;0,07;IT;Verenigde Staten
+TRAVELERS COMPANIES INC;0,07;Financiële waarden;Verenigde Staten
+IQVIA HOLDINGS INC;0,07;Gezondheidszorg;Verenigde Staten
+UBER TECHNOLOGIES INC;0,07;Industrie;Verenigde Staten
+CINTAS CORP;0,07;Industrie;Verenigde Staten
+YUM BRANDS INC;0,07;Luxe-consumentengoederen;Verenigde Staten
+VESTAS WIND SYSTEMS;0,06;Industrie;Denemarken
+MARRIOTT INTERNATIONAL INC CLASS A;0,06;Luxe-consumentengoederen;Verenigde Staten
+TOKIO MARINE HOLDINGS INC;0,06;Financiële waarden;Japan
+SMC (JAPAN) CORP;0,06;Industrie;Japan
+CREDIT SUISSE GROUP AG;0,06;Financiële waarden;Zwitserland
+WASTE CONNECTIONS INC;0,06;Industrie;Verenigde Staten
+VERISK ANALYTICS INC;0,06;Industrie;Verenigde Staten
+AMADEUS IT GROUP SA;0,06;IT;Spanje
+MICROCHIP TECHNOLOGY INC;0,06;IT;Verenigde Staten
+PUBLIC SERVICE ENTERPRISE GROUP IN;0,06;Nutsbedrijven;Verenigde Staten
+ALCON AG;0,06;Gezondheidszorg;Zwitserland
+FORD MOTOR CO;0,06;Luxe-consumentengoederen;Verenigde Staten
+TRANSURBAN GROUP STAPLED UNITS;0,06;Industrie;Australië
+PHILLIPS;0,06;Energie;Verenigde Staten
+ORIENTAL LAND LTD;0,06;Luxe-consumentengoederen;Japan
+GENMAB;0,06;Gezondheidszorg;Denemarken
+OTIS WORLDWIDE CORP;0,06;Industrie;Verenigde Staten
+MATCH GROUP INC;0,06;Communicatie;Verenigde Staten
+CORNING INC;0,06;IT;Verenigde Staten
+SCHLUMBERGER NV;0,06;Energie;Verenigde Staten
+ARCHER DANIELS MIDLAND;0,06;Basis-consumentengoederen;Verenigde Staten
+SWISS RE AG;0,05;Financiële waarden;Zwitserland
+DASSAULT SYSTEMES;0,05;IT;Frankrijk
+CARRIER GLOBAL CORP;0,05;Industrie;Verenigde Staten
+RWE AG;0,05;Nutsbedrijven;Duitsland
+XILINX INC;0,05;IT;Verenigde Staten
+WILLIAMS INC;0,05;Energie;Verenigde Staten
+BMW AG;0,05;Luxe-consumentengoederen;Duitsland
+SUNCOR ENERGY INC;0,05;Energie;Canada
+VIVENDI SA;0,05;Communicatie;Frankrijk
+CONSTELLATION SOFTWARE INC;0,05;IT;Canada
+SANDVIK;0,05;Industrie;Zweden
+DTE ENERGY;0,05;Nutsbedrijven;Verenigde Staten
+BAE SYSTEMS PLC;0,05;Industrie;Verenigd Koninkrijk
+OVERSEA-CHINESE BANKING LTD;0,05;Financiële waarden;Singapore
+METTLER TOLEDO INC;0,05;Gezondheidszorg;Verenigde Staten
+ALEXANDRIA REAL ESTATE EQUITIES RE;0,05;Vastgoed;Verenigde Staten
+CANADIAN NATURAL RESOURCES LTD;0,05;Energie;Canada
+CONSOLIDATED EDISON INC;0,05;Nutsbedrijven;Verenigde Staten
+MARATHON PETROLEUM CORP;0,05;Energie;Verenigde Staten
+HEINEKEN NV;0,05;Basis-consumentengoederen;Nederland
+MARVELL TECHNOLOGY GROUP LTD;0,05;IT;Verenigde Staten
+ENI;0,05;Energie;Italië
+CORTEVA INC;0,05;Materialen;Verenigde Staten
+FREEPORT MCMORAN INC;0,05;Materialen;Verenigde Staten
+PALO ALTO NETWORKS INC;0,05;IT;Verenigde Staten
+HEXAGON B;0,05;IT;Zweden
+JAPAN TOBACCO INC;0,05;Basis-consumentengoederen;Japan
+FORTIVE CORP;0,05;Industrie;Verenigde Staten
+AKZO NOBEL NV;0,05;Materialen;Nederland
+REALTY INCOME REIT CORP;0,04;Vastgoed;Verenigde Staten
+ORANGE SA;0,04;Communicatie;Frankrijk
+PPL CORP;0,04;Nutsbedrijven;Verenigde Staten
+KYOCERA CORP;0,04;IT;Japan
+DOLLAR TREE INC;0,04;Luxe-consumentengoederen;Verenigde Staten
+EQUIFAX INC;0,04;Industrie;Verenigde Staten
+ARTHUR J GALLAGHER;0,04;Financiële waarden;Verenigde Staten
+CROWDSTRIKE HOLDINGS INC CLASS A;0,04;IT;Verenigde Staten
+PELOTON INTERACTIVE CLASS A INC;0,04;Luxe-consumentengoederen;Verenigde Staten
+MAXIM INTEGRATED PRODUCTS INC;0,04;IT;Verenigde Staten
+SEATTLE GENETICS INC;0,04;Gezondheidszorg;Verenigde Staten
+TELEFONICA SA;0,04;Communicatie;Spanje
+DEUTSCHE WOHNEN;0,04;Vastgoed;Duitsland
+FIRST REPUBLIC BANK;0,04;Financiële waarden;Verenigde Staten
+AMEREN CORP;0,04;Nutsbedrijven;Verenigde Staten
+PIONEER NATURAL RESOURCE;0,04;Energie;Verenigde Staten
+MITSUI FUDOSAN LTD;0,04;Vastgoed;Japan
+COOPER INC;0,04;Gezondheidszorg;Verenigde Staten
+SAMPO;0,04;Financiële waarden;Finland
+AMCOR PLC;0,04;Materialen;Verenigde Staten
+CLP HOLDINGS LTD;0,04;Nutsbedrijven;Hong Kong
+MITSUBISHI ESTATE CO LTD;0,04;Vastgoed;Japan
+FORTIS INC;0,04;Nutsbedrijven;Canada
+WAYFAIR INC CLASS A;0,04;Luxe-consumentengoederen;Verenigde Staten
+HARTFORD FINANCIAL SERVICES GROUP;0,04;Financiële waarden;Verenigde Staten
+TELEFLEX INC;0,04;Gezondheidszorg;Verenigde Staten
+IMPERIAL BRANDS PLC;0,04;Basis-consumentengoederen;Verenigd Koninkrijk
+MID AMERICA APARTMENT COMMUNITIES;0,04;Vastgoed;Verenigde Staten
+LINK REAL ESTATE INVESTMENT TRUST;0,03;Vastgoed;Hong Kong
+JAPAN EXCHANGE GROUP INC;0,03;Financiële waarden;Japan
+SWEDBANK;0,03;Financiële waarden;Zweden
+FERROVIAL SA;0,03;Industrie;Spanje
+AEON LTD;0,03;Basis-consumentengoederen;Japan
+RESTAURANTS BRANDS INTERNATIONAL I;0,03;Luxe-consumentengoederen;Canada
+STANDARD CHARTERED PLC;0,03;Financiële waarden;Verenigd Koninkrijk
+DAI-ICHI LIFE HOLDINGS INC;0,03;Financiële waarden;Japan
+WOODSIDE PETROLEUM LTD;0,03;Energie;Australië
+SYMRISE AG;0,03;Materialen;Duitsland
+NITORI HOLDINGS LTD;0,03;Luxe-consumentengoederen;Japan
+CHECK POINT SOFTWARE TECHNOLOGIES;0,03;IT;Israël
+HONG KONG AND CHINA GAS LTD;0,03;Nutsbedrijven;Hong Kong
+NVR INC;0,03;Luxe-consumentengoederen;Verenigde Staten
+ALLIANT ENERGY CORP;0,03;Nutsbedrijven;Verenigde Staten
+MARKEL CORP;0,03;Financiële waarden;Verenigde Staten
+ROGERS COMMUNICATIONS NON-VOTING I;0,03;Communicatie;Canada
+E TRADE FINANCIAL CORP;0,03;Financiële waarden;Verenigde Staten
+SWEDISH MATCH;0,03;Basis-consumentengoederen;Zweden
+SHIMANO INC;0,03;Luxe-consumentengoederen;Japan
+TELADOC HEALTH INC;0,03;Gezondheidszorg;Verenigde Staten
+PINTEREST INC CLASS A;0,03;Communicatie;Verenigde Staten
+M&T BANK CORP;0,03;Financiële waarden;Verenigde Staten
+LIBERTY BROADBAND CORP SERIES C;0,03;Communicatie;Verenigde Staten
+SINGAPORE TELECOMMUNICATIONS LTD;0,03;Communicatie;Singapore
+ESSEX PROPERTY TRUST REIT INC;0,03;Vastgoed;Verenigde Staten
+TRIMBLE INC;0,03;IT;Verenigde Staten
+PERKINELMER INC;0,03;Gezondheidszorg;Verenigde Staten
+NOVOZYMES B;0,03;Materialen;Denemarken
+QIAGEN NV;0,03;Gezondheidszorg;Duitsland
+INTERNATIONAL FLAVORS & FRAGRANCES;0,03;Materialen;Verenigde Staten
+GARTNER INC;0,03;IT;Verenigde Staten
+LOGITECH INTERNATIONAL SA;0,03;IT;Zwitserland
+ATMOS ENERGY CORP;0,03;Nutsbedrijven;Verenigde Staten
+PEMBINA PIPELINE CORP;0,03;Energie;Canada
+IDEX CORP;0,03;Industrie;Verenigde Staten
+SGS SA;0,03;Industrie;Zwitserland
+NICE LTD;0,03;IT;Israël
+SLACK TECHNOLOGIES CLASS A INC;0,03;IT;Verenigde Staten
+BOSTON PROPERTIES REIT INC;0,03;Vastgoed;Verenigde Staten
+BIOMARIN PHARMACEUTICAL INC;0,03;Gezondheidszorg;Verenigde Staten
+NIPPON PAINT HOLDINGS LTD;0,03;Materialen;Japan
+YASKAWA ELECTRIC CORP;0,03;Industrie;Japan
+EMERA INC;0,03;Nutsbedrijven;Canada
+INGERSOLL RAND INC;0,03;Industrie;Verenigde Staten
+LEIDOS HOLDINGS INC;0,03;IT;Verenigde Staten
+JUST EAT TAKEAWA NV;0,03;Luxe-consumentengoederen;Nederland
+OMRON CORP;0,03;IT;Japan
+REPSOL SA;0,03;Energie;Spanje
+CHENIERE ENERGY INC;0,03;Energie;Verenigde Staten
+WATER CORP;0,03;Gezondheidszorg;Verenigde Staten
+BUNZL;0,03;Industrie;Verenigd Koninkrijk
+JACOBS ENGINEERING GROUP INC;0,03;Industrie;Verenigde Staten
+BOOZ ALLEN HAMILTON HOLDING CORP C;0,03;IT;Verenigde Staten
+GODADDY INC CLASS A;0,03;IT;Verenigde Staten
+ZILLOW GROUP INC CLASS C;0,03;Communicatie;Verenigde Staten
+TELENOR;0,03;Communicatie;Noorwegen
+CONTINENTAL AG;0,03;Luxe-consumentengoederen;Duitsland
+EVERGY INC;0,03;Nutsbedrijven;Verenigde Staten
+BEIERSDORF AG;0,02;Basis-consumentengoederen;Duitsland
+AES CORP;0,02;Nutsbedrijven;Verenigde Staten
+OBIC LTD;0,02;IT;Japan
+TOSHIBA CORP;0,02;Industrie;Japan
+INTERTEK GROUP PLC;0,02;Industrie;Verenigd Koninkrijk
+BRAMBLES LTD;0,02;Industrie;Australië
+IAC INTERACTIVE;0,02;Communicatie;Verenigde Staten
+ROYAL CARIBBEAN GROUP LTD;0,02;Luxe-consumentengoederen;Verenigde Staten
+RPM INTERNATIONAL INC;0,02;Materialen;Verenigde Staten
+TELIA COMPANY;0,02;Communicatie;Zweden
+AFTERPAY LTD;0,02;IT;Australië
+COGNEX CORP;0,02;IT;Verenigde Staten
+DOLLARAMA INC;0,02;Luxe-consumentengoederen;Canada
+LOEWS CORP;0,02;Financiële waarden;Verenigde Staten
+HUNTINGTON BANCSHARES INC;0,02;Financiële waarden;Verenigde Staten
+KEURIG DR PEPPER INC;0,02;Basis-consumentengoederen;Verenigde Staten
+SNAM;0,02;Nutsbedrijven;Italië
+RAMSAY HEALTH CARE LTD;0,02;Gezondheidszorg;Australië
+UDR REIT INC;0,02;Vastgoed;Verenigde Staten
+MOWI;0,02;Basis-consumentengoederen;Noorwegen
+LENNOX INTERNATIONAL INC;0,02;Industrie;Verenigde Staten
+XPO LOGISTICS INC;0,02;Industrie;Verenigde Staten
+SUMITOMO METAL MINING LTD;0,02;Materialen;Japan
+ADVANTEST CORP;0,02;IT;Japan
+NORDSON CORP;0,02;Industrie;Verenigde Staten
+NEUROCRINE BIOSCIENCES INC;0,02;Gezondheidszorg;Verenigde Staten
+INTERCONTINENTAL HOTELS GROUP PLC;0,02;Luxe-consumentengoederen;Verenigd Koninkrijk
+ARGENX;0,02;Gezondheidszorg;België
+SCOUT24 N AG;0,02;Communicatie;Duitsland
+JULIUS BAER GRUPPE AG;0,02;Financiële waarden;Zwitserland
+HANKYU HANSHIN HOLDINGS INC;0,02;Industrie;Japan
+TEXTRON INC;0,02;Industrie;Verenigde Staten
+HANG SENG BANK LTD;0,02;Financiële waarden;Hong Kong
+GLOBE LIFE INC;0,02;Financiële waarden;Verenigde Staten
+TEVA PHARMACEUTICAL INDUSTRIES LTD;0,02;Gezondheidszorg;Israël
+TD AMERITRADE HOLDING CORP;0,02;Financiële waarden;Verenigde Staten
+AENA SME SA;0,02;Industrie;Spanje
+CONCHO RESOURCES INC;0,02;Energie;Verenigde Staten
+TERNA RETE ELETTRICA NAZIONALE;0,02;Nutsbedrijven;Italië
+ZSCALER INC;0,02;IT;Verenigde Staten
+SHIMADZU CORP;0,02;IT;Japan
+PG&E CORP;0,02;Nutsbedrijven;Verenigde Staten
+SAREPTA THERAPEUTICS INC;0,02;Gezondheidszorg;Verenigde Staten
+ALBEMARLE CORP;0,02;Materialen;Verenigde Staten
+ELANCO ANIMAL HEALTH INC;0,02;Gezondheidszorg;Verenigde Staten
+LEG IMMOBILIEN N AG;0,02;Vastgoed;Duitsland
+PTC INC;0,02;IT;Verenigde Staten
+CENTERPOINT ENERGY INC;0,02;Nutsbedrijven;Verenigde Staten
+CHR HANSEN HOLDING;0,02;Materialen;Denemarken
+ON SEMICONDUCTOR CORP;0,02;IT;Verenigde Staten
+MTR CORPORATION CORP LTD;0,02;Industrie;Hong Kong
+DAIFUKU LTD;0,02;Industrie;Japan
+NITTO DENKO CORP;0,02;Materialen;Japan
+CARREFOUR SA;0,02;Basis-consumentengoederen;Frankrijk
+SHAW COMMUNICATIONS INC CLASS B;0,02;Communicatie;Canada
+DANSKE BANK;0,02;Financiële waarden;Denemarken
+CRODA INTERNATIONAL PLC;0,02;Materialen;Verenigd Koninkrijk
+MASIMO CORP;0,02;Gezondheidszorg;Verenigde Staten
+MEDICAL PROPERTIES TRUST REIT INC;0,02;Vastgoed;Verenigde Staten
+SAGE GROUP PLC;0,02;IT;Verenigd Koninkrijk
+EMS-CHEMIE HOLDING AG;0,02;Materialen;Zwitserland
+TEMENOS AG;0,02;IT;Zwitserland
+GUIDEWIRE SOFTWARE INC;0,02;IT;Verenigde Staten
+NRG ENERGY INC;0,02;Nutsbedrijven;Verenigde Staten
+ALLEGION PLC;0,02;Industrie;Verenigde Staten
+RENAISSANCERE HOLDING LTD;0,02;Financiële waarden;Verenigde Staten
+JARDINE MATHESON HOLDINGS LTD;0,02;Industrie;Hong Kong
+ASSOCIATED BRITISH FOODS PLC;0,02;Basis-consumentengoederen;Verenigd Koninkrijk
+HEIDELBERGCEMENT AG;0,02;Materialen;Duitsland
+YARA INTERNATIONAL;0,02;Materialen;Noorwegen
+SIRIUS XM HOLDINGS INC;0,02;Communicatie;Verenigde Staten
+KIKKOMAN CORP;0,02;Basis-consumentengoederen;Japan
+CHOCOLADEFABRIKEN LINDT & SPRUENGL;0,02;Basis-consumentengoederen;Zwitserland
+GROUPE BRUXELLES LAMBERT NV;0,02;Financiële waarden;België
+ALTICE USA INC CLASS A;0,02;Communicatie;Verenigde Staten
+KYOWA KIRIN LTD;0,02;Gezondheidszorg;Japan
+UMICORE SA;0,02;Materialen;België
+CAIXABANK SA;0,02;Financiële waarden;Spanje
+MISUMI GROUP INC;0,02;Industrie;Japan
+KONINKLIJKE KPN NV;0,02;Communicatie;Nederland
+ALSTOM SA;0,02;Industrie;Frankrijk
+BORGWARNER INC;0,02;Luxe-consumentengoederen;Verenigde Staten
+MAKITA CORP;0,02;Industrie;Japan
+CABOT OIL & GAS CORP;0,02;Energie;Verenigde Staten
+BEIGENE ADR REPRESENTING LTD;0,02;Gezondheidszorg;Hong Kong
+WYNN RESORTS LTD;0,02;Luxe-consumentengoederen;Verenigde Staten
+LINCOLN NATIONAL CORP;0,02;Financiële waarden;Verenigde Staten
+FAIRFAX FINANCIAL HOLDINGS SUB VOT;0,02;Financiële waarden;Canada
+LEAR CORP;0,02;Luxe-consumentengoederen;Verenigde Staten
+HASBRO INC;0,02;Luxe-consumentengoederen;Verenigde Staten
+JSR CORP;0,02;Materialen;Japan
+MEDIOBANCA BANCA DI CREDITO FINANZ;0,02;Financiële waarden;Italië
+NISSAN MOTOR LTD;0,02;Luxe-consumentengoederen;Japan
+PORSCHE AUTOMOBIL HOLDING PREF;0,02;Luxe-consumentengoederen;Duitsland
+LIVE NATION ENTERTAINMENT INC;0,02;Communicatie;Verenigde Staten
+ARCELORMITTAL SA;0,02;Materialen;Frankrijk
+ORIGIN ENERGY LTD;0,02;Energie;Australië
+CNH INDUSTRIAL NV;0,02;Industrie;Italië
+UNITED INTERNET AG;0,02;Communicatie;Duitsland
+CANADIAN TIRE LTD CLASS A;0,02;Luxe-consumentengoederen;Canada
+JUNIPER NETWORKS INC;0,02;IT;Verenigde Staten
+GETLINK;0,02;Industrie;Frankrijk
+DCC PLC;0,02;Industrie;Verenigd Koninkrijk
+APOLLO GLOBAL MANAGEMENT INC CLASS;0,02;Financiële waarden;Verenigde Staten
+F5 NETWORKS INC;0,02;IT;Verenigde Staten
+DATADOG INC CLASS A;0,02;IT;Verenigde Staten
+TOYOTA INDUSTRIES CORP;0,02;Luxe-consumentengoederen;Japan
+ALLEGHANY CORP;0,02;Financiële waarden;Verenigde Staten
+KINNEVIK CLASS B;0,02;Financiële waarden;Zweden
+NIPPON BUILDING FUND REIT INC;0,02;Vastgoed;Japan
+PINNACLE WEST CORP;0,02;Nutsbedrijven;Verenigde Staten
+KINTETSU GROUP HOLDINGS LTD;0,02;Industrie;Japan
+SOUTH32 LTD;0,02;Materialen;Australië
+ATLANTIA;0,02;Industrie;Italië
+GN STORE NORD;0,02;Gezondheidszorg;Denemarken
+SUMITOMO ELECTRIC INDUSTRIES LTD;0,02;Luxe-consumentengoederen;Japan
+HAMAMATSU PHOTONICS;0,02;IT;Japan
+COMERICA INC;0,02;Financiële waarden;Verenigde Staten
+RAKUTEN INC;0,02;Luxe-consumentengoederen;Japan
+LIBERTY MEDIA FORMULA ONE CORP SER;0,02;Communicatie;Verenigde Staten
+SUNCORP GROUP LTD;0,02;Financiële waarden;Australië
+CENOVUS ENERGY INC;0,02;Energie;Canada
+NEW WORLD DEVELOPMENT LTD;0,02;Vastgoed;Hong Kong
+ARKEMA SA;0,02;Materialen;Frankrijk
+MEIJI HOLDINGS LTD;0,02;Basis-consumentengoederen;Japan
+MELROSE INDUSTRIES PLC;0,02;Industrie;Verenigd Koninkrijk
+CAMDEN PROPERTY TRUST REIT;0,02;Vastgoed;Verenigde Staten
+BANK LEUMI LE ISRAEL;0,02;Financiële waarden;Israël
+THALES SA;0,02;Industrie;Frankrijk
+A P MOLLER MAERSK B;0,02;Industrie;Denemarken
+INSURANCE AUSTRALIA GROUP LTD;0,02;Financiële waarden;Australië
+NIHON M&A CENTER INC;0,02;Industrie;Japan
+TOTO LTD;0,02;Industrie;Japan
+A O SMITH CORP;0,02;Industrie;Verenigde Staten
+YAMAHA CORP;0,02;Luxe-consumentengoederen;Japan
+DAIWA HOUSE REIT CORP;0,02;Vastgoed;Japan
+UBISOFT ENTERTAINMENT SA CAT A;0,02;Communicatie;Frankrijk
+DYNATRACE INC;0,02;IT;Verenigde Staten
+ESSENTIAL UTILITIES INC;0,02;Nutsbedrijven;Verenigde Staten
+TECK RESOURCES SUBORDINATE VOTING;0,02;Materialen;Canada
+MONCLER;0,02;Luxe-consumentengoederen;Italië
+HEICO CORP CLASS A;0,02;Industrie;Verenigde Staten
+AGL ENERGY LTD;0,02;Nutsbedrijven;Australië
+HUSQVARNA;0,02;Luxe-consumentengoederen;Zweden
+SEI INVESTMENTS;0,01;Financiële waarden;Verenigde Staten
+FRANKLIN RESOURCES INC;0,01;Financiële waarden;Verenigde Staten
+NISOURCE INC;0,01;Nutsbedrijven;Verenigde Staten
+EXOR NV;0,01;Financiële waarden;Italië
+BALOISE HOLDING AG;0,01;Financiële waarden;Zwitserland
+NIPPON STEEL CORP;0,01;Materialen;Japan
+CABLE ONE INC;0,01;Communicatie;Verenigde Staten
+WSP GLOBAL INC;0,01;Industrie;Canada
+MOSAIC;0,01;Materialen;Verenigde Staten
+IONIS PHARMACEUTICALS INC;0,01;Gezondheidszorg;Verenigde Staten
+ZIONS BANCORPORATION;0,01;Financiële waarden;Verenigde Staten
+ELECTROLUX B;0,01;Luxe-consumentengoederen;Zweden
+NISSIN FOODS HOLDINGS LTD;0,01;Basis-consumentengoederen;Japan
+HUNTINGTON INGALLS INDUSTRIES INC;0,01;Industrie;Verenigde Staten
+UNIBAIL RODAMCO WE STAPLED UNITS;0,01;Vastgoed;Frankrijk
+SENSATA TECHNOLOGIES HOLDING PLC;0,01;Industrie;Verenigde Staten
+UGI CORP;0,01;Nutsbedrijven;Verenigde Staten
+NIPPON PROLOGIS REIT INC;0,01;Vastgoed;Japan
+DISCO CORP;0,01;IT;Japan
+NATWEST GROUP PLC;0,01;Financiële waarden;Verenigd Koninkrijk
+NEXI;0,01;IT;Italië
+VOYA FINANCIAL INC;0,01;Financiële waarden;Verenigde Staten
+ALFA LAVAL;0,01;Industrie;Zweden
+ORICA LTD;0,01;Materialen;Australië
+YOKOGAWA ELECTRIC CORP;0,01;IT;Japan
+ASAHI INTECC LTD;0,01;Gezondheidszorg;Japan
+INFORMA PLC;0,01;Communicatie;Verenigd Koninkrijk
+T&D HOLDINGS INC;0,01;Financiële waarden;Japan
+JAPAN REAL ESTATE INVESTMENT TRUST;0,01;Vastgoed;Japan
+ST JAMESS PLACE PLC;0,01;Financiële waarden;Verenigd Koninkrijk
+COMMERZBANK AG;0,01;Financiële waarden;Duitsland
+ATHENE HOLDING LTD CLASS A;0,01;Financiële waarden;Verenigde Staten
+HARGREAVES LANSDOWN PLC;0,01;Financiële waarden;Verenigd Koninkrijk
+MINEBEA MITSUMI INC;0,01;Industrie;Japan
+COMPUTERSHARE LTD;0,01;IT;Australië
+VISTRA CORP;0,01;Nutsbedrijven;Verenigde Staten
+AEGON NV;0,01;Financiële waarden;Nederland
+ORPEA SA;0,01;Gezondheidszorg;Frankrijk
+AUTO TRADER GROUP PLC;0,01;Communicatie;Verenigd Koninkrijk
+REGENCY CENTERS REIT CORP;0,01;Vastgoed;Verenigde Staten
+YAMAHA MOTOR LTD;0,01;Luxe-consumentengoederen;Japan
+OGE ENERGY CORP;0,01;Nutsbedrijven;Verenigde Staten
+FIRST QUANTUM MINERALS LTD;0,01;Materialen;Canada
+ONEX CORP;0,01;Financiële waarden;Canada
+SIEMENS GAMESA RENEWABLE ENERGY SA;0,01;Industrie;Spanje
+AISIN SEIKI LTD;0,01;Luxe-consumentengoederen;Japan
+RENAULT SA;0,01;Luxe-consumentengoederen;Frankrijk
+DAVIDE CAMPARI MILANO;0,01;Basis-consumentengoederen;Italië
+GALP ENERGIA SGPS SA;0,01;Energie;Portugal
+USS LTD;0,01;Luxe-consumentengoederen;Japan
+TEAMVIEWER AG;0,01;IT;Duitsland
+NISSHIN SEIFUN GROUP INC;0,01;Basis-consumentengoederen;Japan
+TOKYU CORP;0,01;Industrie;Japan
+DEMANT;0,01;Gezondheidszorg;Denemarken
+IPG PHOTONICS CORP;0,01;IT;Verenigde Staten
+TOBU RAILWAY LTD;0,01;Industrie;Japan
+LASERTEC CORP;0,01;IT;Japan
+AXALTA COATING SYSTEMS LTD;0,01;Materialen;Verenigde Staten
+ACCOR SA;0,01;Luxe-consumentengoederen;Frankrijk
+GLP J-REIT REIT;0,01;Vastgoed;Japan
+FINECOBANK BANCA FINECO;0,01;Financiële waarden;Italië
+ISUZU MOTORS LTD;0,01;Luxe-consumentengoederen;Japan
+BUNGE LTD;0,01;Basis-consumentengoederen;Verenigde Staten
+A P MOLLER MAERSK;0,01;Industrie;Denemarken
+HANG LUNG PROPERTIES LTD;0,01;Vastgoed;Hong Kong
+BANK HAPOALIM BM;0,01;Financiële waarden;Israël
+SEALED AIR CORP;0,01;Materialen;Verenigde Staten
+BIOMERIEUX SA;0,01;Gezondheidszorg;Frankrijk
+SUMITOMO CHEMICAL LTD;0,01;Materialen;Japan
+TSURUHA HOLDINGS INC;0,01;Basis-consumentengoederen;Japan
+EAST WEST BANCORP INC;0,01;Financiële waarden;Verenigde Staten
+RECORDATI INDUSTRIA CHIMICA E FARM;0,01;Gezondheidszorg;Italië
+NATIONAL RETAIL PROPERTIES REIT IN;0,01;Vastgoed;Verenigde Staten
+RENESAS ELECTRONICS CORP;0,01;IT;Japan
+NEWS CORP CLASS A;0,01;Communicatie;Verenigde Staten
+RSA INSURANCE GROUP PLC;0,01;Financiële waarden;Verenigd Koninkrijk
+FEDERAL REALTY INVESTMENT TRUST RE;0,01;Vastgoed;Verenigde Staten
+AUTOLIV INC;0,01;Luxe-consumentengoederen;Verenigde Staten
+TOSOH CORP;0,01;Materialen;Japan
+WHITBREAD PLC;0,01;Luxe-consumentengoederen;Verenigd Koninkrijk
+JOHNSON MATTHEY PLC;0,01;Materialen;Verenigd Koninkrijk
+REINSURANCE GROUP OF AMERICA INC;0,01;Financiële waarden;Verenigde Staten
+ROLLS-ROYCE HOLDINGS PLC;0,01;Industrie;Verenigd Koninkrijk
+FLIR SYSTEMS INC;0,01;IT;Verenigde Staten
+SAPUTO INC;0,01;Basis-consumentengoederen;Canada
+PEARSON PLC;0,01;Communicatie;Verenigd Koninkrijk
+BENESSE HOLDINGS INC;0,01;Luxe-consumentengoederen;Japan
+EPIROC CLASS B;0,01;Industrie;Zweden
+KOITO MANUFACTURING LTD;0,01;Luxe-consumentengoederen;Japan
+CAMECO CORP;0,01;Energie;Canada
+DENTSU GROUP INC;0,01;Communicatie;Japan
+SJM HLDGS LTD;0,01;Luxe-consumentengoederen;Hong Kong
+SINGAPORE TECHNOLOGIES ENGINEERING;0,01;Industrie;Singapore
+NOMURA REAL ESTATE MASTER FUND REI;0,01;Vastgoed;Japan
+NGK INSULATORS LTD;0,01;Industrie;Japan
+CCL INDUSTRIES INC CLASS B;0,01;Materialen;Canada
+NATIONAL OILWELL VARCO INC;0,01;Energie;Verenigde Staten
+STANLEY ELECTRIC LTD;0,01;Luxe-consumentengoederen;Japan
+AGC INC;0,01;Industrie;Japan
+CLARIANT AG;0,01;Materialen;Zwitserland
+TELUS CORP;0,01;Communicatie;Canada
+NORSK HYDRO;0,01;Materialen;Noorwegen
+CHUGOKU ELECTRIC POWER INC;0,01;Nutsbedrijven;Japan
+ROHM LTD;0,01;IT;Japan
+TREASURY WINE ESTATES LTD;0,01;Basis-consumentengoederen;Australië
+TABCORP HOLDINGS LTD;0,01;Luxe-consumentengoederen;Australië
+COVIVIO SA;0,01;Vastgoed;Frankrijk
+BANK OF EAST ASIA LTD;0,01;Financiële waarden;Hong Kong
+EQT;0,01;Financiële waarden;Zweden
+GJENSIDIGE FORSIKRING;0,01;Financiële waarden;Noorwegen
+MERCARI INC;0,01;Luxe-consumentengoederen;Japan
+LANXESS AG;0,01;Materialen;Duitsland
+AMBU CLASS B;0,01;Gezondheidszorg;Denemarken
+KEPPEL LTD;0,01;Industrie;Singapore
+SYDNEY AIRPORT STAPLED UNITS LTD;0,01;Industrie;Australië
+WARTSILA;0,01;Industrie;Finland
+AMUNDI SA;0,01;Financiële waarden;Frankrijk
+MITSUI CHEMICALS INC;0,01;Materialen;Japan
+TIS INC;0,01;IT;Japan
+IDEMITSU KOSAN LTD;0,01;Energie;Japan
+BANKINTER SA;0,01;Financiële waarden;Spanje
+SCHIBSTED B;0,01;Communicatie;Noorwegen
+TOHOKU ELECTRIC POWER INC;0,01;Nutsbedrijven;Japan
+BRITISH LAND REIT PLC;0,01;Vastgoed;Verenigd Koninkrijk
+ERIE INDEMNITY CLASS A;0,01;Financiële waarden;Verenigde Staten
+AMERICAN FINANCIAL GROUP INC;0,01;Financiële waarden;Verenigde Staten
+UNITED URBAN INVESTMENT REIT CORP;0,01;Vastgoed;Japan
+GILDAN ACTIVEWEAR INC;0,01;Luxe-consumentengoederen;Canada
+INTER PIPELINE LTD;0,01;Energie;Canada
+SCHRODERS PLC;0,01;Financiële waarden;Verenigd Koninkrijk
+LUNDIN MINING CORP;0,01;Materialen;Canada
+MAPLETREE LOGISTICS TRUST UNITS;0,01;Vastgoed;Singapore
+CAPITALAND COMMERCIAL TRUST;0,01;Vastgoed;Singapore
+SECURITAS B;0,01;Industrie;Zweden
+ASM PACIFIC TECHNOLOGY LTD;0,01;IT;Hong Kong
+AUCKLAND INTERNATIONAL AIRPORT LTD;0,01;Industrie;Nieuw-Zeeland
+WISETECHGLOBAL PTY LTD;0,01;IT;Australië
+KURARAY LTD;0,01;Materialen;Japan
+AMP LTD;0,01;Financiële waarden;Australië
+HONGKONG LAND HOLDINGS LTD;0,01;Vastgoed;Hong Kong
+JFE HOLDINGS INC;0,01;Materialen;Japan
+ABN AMRO BANK NV;0,01;Financiële waarden;Nederland
+INDUSTRIVARDEN SERIES;0,01;Financiële waarden;Zweden
+JARDINE STRATEGIC HOLDINGS LTD;0,01;Industrie;Hong Kong
+SCOR;0,01;Financiële waarden;Frankrijk
+IPSEN SA;0,01;Gezondheidszorg;Frankrijk
+BUDWEISER BREWING COMPANY APAC LTD;0,01;Basis-consumentengoederen;Hong Kong
+REA GROUP LTD;0,01;Communicatie;Australië
+CAPITALAND MALL TRUST;0,01;Vastgoed;Singapore
+PROXIMUS NV;0,01;Communicatie;België
+MONOTARO LTD;0,01;Industrie;Japan
+ANDRITZ AG;0,01;Industrie;Oostenrijk
+NABTESCO CORP;0,01;Industrie;Japan
+REMY COINTREAU SA;0,01;Basis-consumentengoederen;Frankrijk
+EVONIK INDUSTRIES AG;0,01;Materialen;Duitsland
+CARLYLE GROUP INC;0,01;Financiële waarden;Verenigde Staten
+WENDEL;0,01;Financiële waarden;Frankrijk
+NIPPON SHINYAKU LTD;0,01;Gezondheidszorg;Japan
+SCSK CORP;0,01;IT;Japan
+LA FRANCAISE DES JEUX SA;0,01;Luxe-consumentengoederen;Frankrijk
+FAURECIA;0,01;Luxe-consumentengoederen;Frankrijk
+HULIC LTD;0,01;Vastgoed;Japan
+AMADA LTD;0,01;Industrie;Japan
+KYUSHU RAILWAY;0,01;Industrie;Japan
+TOYO SUISAN LTD;0,01;Basis-consumentengoederen;Japan
+KOBE BUSSAN LTD;0,01;Basis-consumentengoederen;Japan
+MIURA LTD;0,01;Industrie;Japan
+ITO EN LTD;0,01;Basis-consumentengoederen;Japan
+CYBER AGENT INC;0,01;Communicatie;Japan
+LIBERTY BROADBAND CORP SERIES A;0,01;Communicatie;Verenigde Staten
+KEIHAN HOLDINGS LTD;0,01;Industrie;Japan
+THYSSENKRUPP AG;0,01;Materialen;Duitsland
+ADEVINTA;0,01;Communicatie;Noorwegen
+NIPPON EXPRESS LTD;0,01;Industrie;Japan
+SHIZUOKA BANK LTD;0,01;Financiële waarden;Japan
+PEOPLES UNITED FINANCIAL INC;0,01;Financiële waarden;Verenigde Staten
+COSMOS PHARMACEUTICAL CORP;0,01;Basis-consumentengoederen;Japan
+SUNTEC UNITS TRUST;0,01;Vastgoed;Singapore
+SEEK LTD;0,01;Communicatie;Australië
+AMERCO;0,01;Industrie;Verenigde Staten
+SEB SA;0,01;Luxe-consumentengoederen;Frankrijk
+NSK LTD;0,01;Industrie;Japan
+MICROPORT SCIENTIFIC CORP;0,01;Gezondheidszorg;Hong Kong
+HK ELECTRIC INVESTMENTS UNITS LTD;0,01;Nutsbedrijven;Hong Kong
+GENTING SINGAPORE LTD;0,01;Luxe-consumentengoederen;Singapore
+INFRASTRUTTURE WIRELESS ITALIANE;0,01;Communicatie;Italië
+VOESTALPINE AG;0,01;Materialen;Oostenrijk
+JTEKT CORP;0,01;Luxe-consumentengoederen;Japan
+RYMAN HEALTHCARE LTD;0,01;Gezondheidszorg;Nieuw-Zeeland
+ELBIT SYSTEMS LTD;0,01;Industrie;Israël
+DASSAULT AVIATION SA;0,01;Industrie;Frankrijk
+SES SA FDR;0,01;Communicatie;Frankrijk
+ORACLE JAPAN CORP;0,01;IT;Japan
+PEPTIDREAM INC;0,01;Gezondheidszorg;Japan
+JAPAN AIRPORT TERMINAL LTD;0,01;Industrie;Japan
+TRYG;0,01;Financiële waarden;Denemarken
+HITACHI METALS LTD;0,01;Materialen;Japan
+TELECOM ITALIA SAVING;0,01;Communicatie;Italië
+ENAGAS SA;0,01;Nutsbedrijven;Spanje
+BMW PREF AG;0,01;Luxe-consumentengoederen;Duitsland
+OIL SEARCH LTD;0,01;Energie;Australië
+PIGEON CORP;0,01;Basis-consumentengoederen;Japan
+NATIXIS SA;0,01;Financiële waarden;Frankrijk
+KOBAYASHI PHARMACEUTICAL LTD;0,01;Basis-consumentengoederen;Japan
+WELCIA HOLDINGS LTD;0,01;Basis-consumentengoederen;Japan
+AEROPORTS DE PARIS SA;0,01;Industrie;Frankrijk
+SINGAPORE AIRLINES LTD;0,01;Industrie;Singapore
+MIZRAHI TEFAHOT BANK LTD;0,01;Financiële waarden;Israël
+MAPLETREE COMMERCIAL UNITS TRUST;0,01;Vastgoed;Singapore
+PARKLAND CORP;0,01;Energie;Canada
+KEIKYU CORP;0,01;Industrie;Japan
+AIR WATER INC;0,01;Materialen;Japan
+ANA HOLDINGS INC;0,01;Industrie;Japan
+TENARIS SA;0,01;Energie;Italië
+LINE CORP;0,01;Communicatie;Japan
+RYOHIN KEIKAKU LTD;0,01;Luxe-consumentengoederen;Japan
+CHEUNG KONG INFRASTRUCTURE HOLDING;0,01;Nutsbedrijven;Hong Kong
+CANOPY GROWTH CORP;0,01;Gezondheidszorg;Canada
+ALTICE EUROPE NV;0,01;Communicatie;Nederland
+FUJI ELECTRIC LTD;0,01;Industrie;Japan
+SUMCO CORP;0,01;IT;Japan
+ICADE REIT SA;0,01;Vastgoed;Frankrijk
+AUSNET SERVICES;0,01;Nutsbedrijven;Australië
+HINO MOTORS LTD;0,01;Industrie;Japan
+EURAZEO;0,01;Financiële waarden;Frankrijk
+CROWN RESORTS LTD;0,01;Luxe-consumentengoederen;Australië
+YANGZIJIANG SHIPBUILDING HOLDINGS;0,01;Industrie;Singapore
+ATCO LTD CLASS I;0,01;Nutsbedrijven;Canada
+BLACKBERRY LTD;0,01;IT;Canada
+DAICEL CORP;0;Materialen;Japan
+IGM FINANCIAL INC;0;Financiële waarden;Canada
+MERCURY NZ LTD;0;Nutsbedrijven;Nieuw-Zeeland
+TAIYO NIPPON SANSO CORP;0;Materialen;Japan
+SHARP CORP;0;Luxe-consumentengoederen;Japan
+H LUNDBECK;0;Gezondheidszorg;Denemarken
+UOL GROUP LTD;0;Vastgoed;Singapore
+HITACHI CONSTRUCTION MACHINERY LTD;0;Industrie;Japan
+SUNDRUG LTD;0;Basis-consumentengoederen;Japan
+TOYODA GOSEI LTD;0;Luxe-consumentengoederen;Japan
+ISETAN MITSUKOSHI HOLDINGS LTD;0;Luxe-consumentengoederen;Japan
+DEUTSCHE LUFTHANSA AG;0;Industrie;Duitsland
+MITSUBISHI GAS CHEMICAL INC;0;Materialen;Japan
+KANSAI PAINT LTD;0;Materialen;Japan
+FRAPORT FRANKFURT AIRPORT SERVICES;0;Industrie;Duitsland
+HIROSE ELECTRIC LTD;0;IT;Japan
+MARUICHI STEEL TUBE LTD;0;Materialen;Japan
+NH FOODS LTD;0;Basis-consumentengoederen;Japan
+MAPFRE SA;0;Financiële waarden;Spanje
+THE SWATCH GROUP AG;0;Luxe-consumentengoederen;Zwitserland
+TPG TELECOM LTD;0;Communicatie;Australië
+HOCHTIEF AG;0;Industrie;Duitsland
+CNP ASSURANCES SA;0;Financiële waarden;Frankrijk
+THK LTD;0;Industrie;Japan
+SHOWA DENKO;0;Materialen;Japan
+PIRELLI & C;0;Luxe-consumentengoederen;Italië
+SMARTCENTRES RL ESTATE INVESTMENT;0;Vastgoed;Canada
+RAIFFEISEN BANK INTERNATIONAL AG;0;Financiële waarden;Oostenrijk
+WASHINGTON H SOUL PATTINSON & COMP;0;Energie;Australië
+MITSUBISHI MATERIALS CORP;0;Materialen;Japan
+DAIRY FARM INTERNATIONAL HOLDINGS;0;Basis-consumentengoederen;Hong Kong
+ACOM LTD;0;Financiële waarden;Japan
+KERRY PROPERTIES LTD;0;Vastgoed;Hong Kong
+METRO AG;0;Basis-consumentengoederen;Duitsland
+SEVEN BANK LTD;0;Financiële waarden;Japan
+MCDONALDS HOLDINGS (JAPAN) LTD;0;Luxe-consumentengoederen;Japan
+LEONARDO FINMECCANICA SPA;0;Industrie;Italië
+HISAMITSU PHARMACEUTICAL INC;0;Gezondheidszorg;Japan
+CIMIC GROUP LTD;0;Industrie;Australië
+FUKUOKA FINANCIAL GROUP INC;0;Financiële waarden;Japan
+COCA-COLA BOTTLERS JAPAN HOLDINGS;0;Basis-consumentengoederen;Japan
+NGK SPARK PLUG LTD;0;Luxe-consumentengoederen;Japan
+ELECTRIC POWER DEVELOPMENT LTD;0;Nutsbedrijven;Japan
+NIPPON YUSEN;0;Industrie;Japan
+CRONOS GROUP INC;0;Gezondheidszorg;Canada
+BANK OF KYOTO LTD;0;Financiële waarden;Japan
+JGC HOLDINGS CORP;0;Industrie;Japan
+POLA ORBIS HOLDINGS INC;0;Basis-consumentengoederen;Japan
+JARDINE CYCLE AND CARRIAGE LTD;0;Luxe-consumentengoederen;Singapore
+KINNEVIK REDEMPTION SHARES;0;Financiële waarden;Zweden
+PACIFIC CENTURY PREMIUM DEVELOPMEN;0;Vastgoed;Hong Kong
+INTERNATIONAL FLAVORS & FRAGRANCES;0;Materialen;Verenigde Staten
+ISRACARD LTD;0;Financiële waarden;Israël
+PUBLICIS COUPON RIGHTS;0;Overige;Frankrijk
+;18%;;
+;;;
+;17,47%;;
+;;;
+;82,53%;;
