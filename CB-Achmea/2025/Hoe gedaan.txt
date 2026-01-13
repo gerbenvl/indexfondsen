@@ -1,0 +1,16 @@
+Holdings komen uit halfjaarverslag Achmea met een copy paste actie, alleen daar staan ze met ISIN.
+
+Voor replace rommel na percentage van de holding: \%.*
+Replace dan met leeg (notepad++ regex replace)
+
+Laatste spatie met ; vervangen: \s(?=\S*$)
+Replace dan met ;
+
+Daarna ; voor de naam.
+
+Daarna in excel tekst naar kolommen op ; teken.
+
+Daarna tegen ongeveer juiste moment IWDA uitvergelijken.
+IWDA download van website of copy paste als de ISINS niet in de download staan.
+
+Filter op NB zetten, maar ook op ISIN '-', anders gaan de future en cash posities ook mee.
